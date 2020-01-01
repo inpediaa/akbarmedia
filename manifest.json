@@ -1,0 +1,38 @@
+{
+  "name": "Akbar Media",
+  "short_name": "AkbarMedia",
+  "start_url": "https://www.akbarmedia.id/",
+  "display": "standalone",
+  "background_color": "#eaeaea",
+  "theme_color": "#3f51b5",
+  "description": "Media Berbagi Tutorial & Informasi Menarik",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-TaBuh-q2VkY/XgwwtRbvWKI/AAAAAAAAAHA/rkXW4OvFe-Y0wIquhK1sZZJvNXYYAbFnACLcBGAsYHQ/s48/favicon48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-XHNMCFdHIGM/XgwwsMzbxiI/AAAAAAAAAG4/6GsI3nT5Lm4oR2dzxQUA1TNAOPRZSi9HgCLcBGAsYHQ/s72/72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-k4yCfwa9xXI/XgwwuS50h1I/AAAAAAAAAHI/-faH1dS1kB8RdHGrxHBna0NATPAXr0K-ACLcBGAsYHQ/s96/favicon96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-PvMH8qgjv2c/XgwwsLxacAI/AAAAAAAAAG0/SfuAdc2omgkZvfcOMW2l-kzfi-3fjrO6QCLcBGAsYHQ/s144/favicon144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-4Ezcwnd58vM/XgwwsOo0myI/AAAAAAAAAGw/3n6rJPHDppEoNYXVD67NNi9I4Siy0HaqQCLcBGAsYHQ/s168/favicon168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-14YQ8HHzdDc/XgwwtSzvB4I/AAAAAAAAAG8/Xnjc8KODS4wPDpJi4Bp5y7ujmbm_2zEKgCLcBGAsYHQ/s192/favicon192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-HdKgWy2PIxY/Xgwwtw8VOAI/AAAAAAAAAHE/G3Mo4VIr4eAzMYXwHtds-WtIpD-lExEGQCLcBGAsYHQ/s512/favicon512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
